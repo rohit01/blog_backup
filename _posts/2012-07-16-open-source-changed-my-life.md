@@ -12,7 +12,7 @@ I came to know something called Linux exists from my friend, who was a studying 
 
 Things were not smooth when I started. I believed there will be geeks & techies like him in my college. My hopes were soon shattered. In first year, I searched for a Linux CD in all senior hostels but ended up empty hands. Finally I got one from the library of our college (Digit DVDs).
 
-I experimented a lot and loved solving problems. I visited a open-source techfest in NIT durgapur called Mukti. It changed my whole thinking towards open-source. I came to know that it is developed by community and not big companies like Microsoft or Apple. It is mainly developed by hobbyist and not for profit. They do it because they love it.
+I experimented a lot and loved solving problems. I visited a open-source techfest in NIT durgapur called [Mukti](http://mkti.in/). It changed my whole thinking towards open-source. I came to know that it is developed by community and not big companies like Microsoft or Apple. It is mainly developed by hobbyist and not for profit. They do it because they love it.
 
 After attending the fest, I decided to create awareness about this in my college. I was blessed with the help of many batch-mates & seniors. We conducted a **installfest** on 21st Feb 09. It was a great success with over 150 participans. We gave fedora DVDs to all participants and had installed the same in over 30 systems. Then we conducted **FreedomFest** on 18th Apr 09 and formally inaugurated a Linux User Group. We did a seminar and **boot-camp** on KGEC techfest 2010. In 2011, new LUG members did a event **hack the system**. In these events, we promoted open source and created awareness. Everyone liked our initiatives but in the long run, only few members took it seriously.
 
