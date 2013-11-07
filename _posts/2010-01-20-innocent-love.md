@@ -44,7 +44,7 @@ title: Innocent Love
 
 **Hope**,
 <pre>
-        But if dreams do ever come true,
+        But if dreams, do ever come true,
         I just wanna spend my life with you
 
                                         MY DREAM GIRL
