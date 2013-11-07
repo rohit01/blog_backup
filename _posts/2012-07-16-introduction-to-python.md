@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [python, programming, linux, kgec, lug]
+categories: [python, programming, linux]
 disqus_comments: true
 date: 2012-07-16 12:13:00 UTC
 title: Introduction to python
