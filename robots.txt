@@ -1,63 +1,48 @@
 User-agent: Googlebot
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: baiduspider
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: msnbot
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: naverbot
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: seznambot
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: Slurp
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: teoma
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: Yandex
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: CCBot
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: Telefonica
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: SandDollar
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: dotbot
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: rogerbot
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: IntuitGSACrawler
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: red-app-gsa-p-one
 Allow: /*
-Disallow: /atom.xml
 
 User-agent: *
 Allow: /*
-Disallow: /atom.xml
+
