@@ -31,6 +31,6 @@ I would also recommend to install ipython or bython. They have features like tab
 
 Starting python prompt is simple. Just type 'python' in linux console. If trying out ipython or bpython, type 'ipython' or 'bpython' respectively. Official [documentation website](http://docs.python.org): http://docs.python.org
 
-Some [recommended tutorials](https://dl.dropbox.com/u/78317387/kgeclug/basic%20python.zip) by [fossee group](http://fossee.in/) (IIT Bombay): [https://dl.dropbox.com/u/78317387/kgeclug/basic%20python.zip](https://dl.dropbox.com/u/78317387/kgeclug/basic%20python.zip)
+Some [recommended tutorials](/res/posts/introduction-to-python/basic_python.zip) by [fossee group](http://fossee.in/) (IIT Bombay): [http://rohit.io/res/posts/introduction-to-python/basic_python.zip](/res/posts/introduction-to-python/basic_python.zip)
 
 Please post comments if you have any question or suggestion.
