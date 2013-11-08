@@ -6,8 +6,7 @@ date: 2009-04-22 14:00:00 UTC
 title: Starting KGEC LUG with FreedomFest '09
 ---
 
-**The Beginning**
-
+**The Beginning**:
 The preparations for forming a 'GNU/Linux User Group' in KGEC was
 started just after the Installfest '09. We created the Mailing List of
 our group on 23rd February and visited NIT Durgapur to come closer to
@@ -16,8 +15,7 @@ collected some resources from there like the fedora repo, different
 distributions isos and ideas to start the GLUG. The key people to help
 me was Mr. Debayan and Mr. Rangeen.
 
-**The Ideas**
-
+**The Ideas**:
 The Mailing list of GLUG KGEC was ready but there was no awareness.
 The GLUG was there but no official existence. So, here came the idea
 of Publicity, Inauguration program and to create a awareness, the
@@ -29,8 +27,7 @@ structure was formulated for the official record. The college
 supported the GLUG concept and we fixed 18th April as the inauguration
 date followed by FOSS events.
 
-**The Growth**
-
+**The Growth**:
 Our college authority helped us in every possible way, they could.
 They gave the permission, helped us for the event, became members and
 even gave donations. The event name 'FreedomFest' was suggested  by
@@ -47,8 +44,7 @@ event. The publicity of this event was also a great factor. We did
 exclusive publicity of this event and were also getting good positive
 responses. We set the max limit of participants to 150.
 
-**The Management**
-
+**The Management**:
 Since the GLUG KGEC already existed in mailing list and we had few
 much interested students, we were always in touch and went together.
 After the final draft, we even got some surprise names getting
@@ -64,8 +60,7 @@ and checking out what’s next and did not have to worry about anything
 regarding the smooth running of the event. Every credit goes to our
 volunteer team.
 
-**The Event - FreedomFest '09**
-
+**The Event - FreedomFest '09**:
 The event was finally conducted on 18th April '09. The Event started
 at 11:30 AM with the inauguration of GLUG KGEC in the hand of
 principal. Then there were speeches of the the following persons:
@@ -109,8 +104,7 @@ Linux User Group:
 Every participant did exactly what was shown in the projector in the
 computers provided.
 
-**Response**
-
+**Response**:
 The registration started at 10:15 AM and preparations were on. The
 event viewed some very good responses from some of the faculty members
 of our college. There were some MCA faculty of our college who came
@@ -124,8 +118,7 @@ labs, some had Hall Day reunion in their Hostel (a annual event). The
 event viewed about 45 participants in the 'Fedora Workshop' session.
 There were participants from every stream and year.
 
-**What went wrong**
-
+**What went wrong**:
 On 18th April, Mr. Indranil Das Gupta gave us a news of his bad health
 and said he will not be able to come. The date selection of the Event
 as April 18 also caused trouble. The event was conducted on Saturday
@@ -137,8 +130,7 @@ Abhradip Mukherjee (founder, p4f network) was coming also got delayed
 half an hour but his 'Why FOSS' session was supposed to be started
 earlier as Mr. Indranil Das Gupta's speech was canceled.
 
-**Special Thanks**
-
+**Special Thanks**:
 The whole event “FreedomFest '09” was a success due to the hard word
 and responsibility taken by the following people:
 1.Mr. Abhradip Mukherjee. He had WBUT 8th semester examinations
@@ -152,8 +144,7 @@ newbies).
 3.The students of KGEC who participated in volunteer work and helped
 conduct the event.
 
-**Result**
-
+**Result**:
 The event “FreedomFest '09” was an overall awareness program in KGEC
 and the participants came closer to the FOSS philosophy and GNU/Linux.
 The 'Why FOSS' session gave them reasons and practical workshop part

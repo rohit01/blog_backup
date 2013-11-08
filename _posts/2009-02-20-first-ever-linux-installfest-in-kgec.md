@@ -6,8 +6,7 @@ date: 2009-02-20 14:00:00 UTC
 title: First ever Linux Installfest in KGEC
 ---
 
-**The Beginning**
-
+**The Beginning**:
 I Registered for MUKTI ‘09 and went to NIT Durgapur along with my
 friend. There we stayed 3 days and attended all workshops. We came
 closer to FOSS community and some of the organizers. We met Mr.
@@ -15,8 +14,7 @@ Rangeen Basu Roy Choudhry and he gave us the idea of having an
 installfest in our college to create a Linux environment.
 
 
-**The Growth**
-
+**The Growth**:
 On 16th February, we decided to meet one of our CSE Faculty, Mr.
 Kaushik Das, whom we believed to be the most approachable person, but
 he was absent.
@@ -47,8 +45,7 @@ this event and were also getting good positive responses. We set the
 max limit of participants to 150.
 
 
-**The Management**
-
+**The Management**:
 I first announced the event officially in my class during our “control
 system lab”. The response really helped me to proceed further. Then I
 announced the event to all the 2nd year students of our hostel and
@@ -64,8 +61,7 @@ did the job perfectly. I was busy receiving the guests and checking
 out what’s next and did not have to worry about anything regarding the
 smooth running of the event. Every credit goes to our volunteer team.
 
-**The Response**
-
+**The Response**:
 To get a good response, we did exclusive publicity of this event.
 There were posters everywhere and we moved on from class to class and
 announced the event. We even gave out fliers as Xerox of the posters.
@@ -93,8 +89,7 @@ as everybody watched in the projector screen and did exactly in their
 system. There were also pool of questions apart from how to install
 fedora like questions about contributing to FOSS.
 
-**The Event**
-
+**The Event**:
 The event was started with the speeches of the heads of our college.
 Then the program started with Mr. Indranil Das Gupta’s (ilugcal) talk.
 He shared his excitement and enthusiasm towards Linux and how he
@@ -112,8 +107,7 @@ Computers. The questions that were raised by the participants were
 satisfactorily answered. All the participants were given a ‘fedora 10’
 DVD.
 
-**What went wrong**
-
+**What went wrong**:
 We had a power cut during Indranil ji’s speech and there was no
 arrangement for that. Our college had generators but the generator man
 was in leave and since it was Saturday, electricity office was also
@@ -124,8 +118,7 @@ after the lunch and we were able to resume our program peacefully. The
 only damage we got was that few students who brought their laptops
 went home and came back again empty hand.
 
-**Special Thanks**
-
+**Special Thanks**:
 All the success of this event lies with the fedora Ambassadors and
 experts who took all pains to help us and guided us at every step. We
 had nothing to worry about the conduct of the event as it was all in
@@ -146,8 +139,7 @@ rest. Despite his bad health, he came to grace our occasion and helped
 us. We are really thankful to him for all his contributions to our
 college.
 
-**Result**
-
+**Result**:
 This is the beginning of Linux Environment in our college. We are
 getting very good responses from our college and we will definately
 create our own Linux User Group.
