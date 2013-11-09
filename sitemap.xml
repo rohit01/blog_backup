@@ -9,12 +9,12 @@ layout: nil
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-<!--   <url>
+  <url>
     <loc>http://rohit.io/about/</loc>
     <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url> -->
+  </url>
   <url>
     <loc>http://rohit.io/archive/</loc>
     <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
