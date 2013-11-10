@@ -2,7 +2,7 @@
 layout: page
 title: About
 categories: [about, rohit, rohit01, rohit.io, kgec, rohit gupta]
-disqus_comments: true
+extra_disqus_comments: true
 ---
 
 <img src="/res/about/rohit.jpg" width="256" height="170" align="right">
