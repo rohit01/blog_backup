@@ -11,3 +11,5 @@ Today, I changed the title of my blog to **Simplicity**. A simple thought, life,
 The first thing to realize about simplicity is that, it does not mean *LIMITED*. **Simplicity is about subtracting the obvious and adding the meaningful**. The problem here is that the 'obvious' is not so OBVIOUS :(
 
 Simplicity also means, the achievement of maximum effect with minimum means. A absence of luxury or showiness, enjoying plainess.
+
+**And as always, Thanks for reading :)**
