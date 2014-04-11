@@ -28,6 +28,7 @@ Activate virtualenv:
 ````
 
 Once the virtualenv is activated, use pip to install libraries. For example:
+
 ```bash
     (venv)$ pip install gevent redis ipython
 ````
