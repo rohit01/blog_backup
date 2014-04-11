@@ -38,6 +38,6 @@ The above example installs python packages: gevent, redis and ipython. To deacti
     (venv)$ deactivate
 ````
 
-Virtualenv can efectively help you maintain library dependencies for different projects. You can even maintain different version of python using virtualenv. It is even used for single installation of Python in a System.
+Virtualenv can help you maintain conflicting library dependencies, python versions for different projects, in the same system. It is commonly used in production systems even with a single python application.
 
 **And as always, Thanks for reading :)**
