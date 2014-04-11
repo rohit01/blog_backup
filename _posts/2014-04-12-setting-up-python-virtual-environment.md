@@ -33,7 +33,7 @@ Once the virtualenv is activated, use pip to install libraries. For example:
     (venv)$ pip install gevent redis ipython
 ````
 
-The above example installs python packages: gevent, redis and ipython. To deactivate virtualenv:
+The above example will install python packages: gevent, redis and ipython. To deactivate virtualenv:
 
 ```bash
     (venv)$ deactivate
