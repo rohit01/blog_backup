@@ -20,7 +20,7 @@ Few basic questions, that will help us understand the situation:
 
 #### Revenue share of Income Tax on total Tax collected:
 
-![Income Tax Share](/res/posts/why-abolishing-income-Tax-makes-sense-in-india/income-Tax-share.png)
+![Income Tax Share](/res/posts/why-abolishing-income-tax-makes-sense-in-india/income-tax-share.png)
 > (As shown in Satyamev Jayate 2 - Kings Every Day)
 
 From the above stats, we notice that Indirect Tax generates more than twice the revenue collected through Income Tax. And yes, Indirect Tax is paid by all, including people below powerty line. Even a 1 rupee match box is sold inclusive of all taxes.
@@ -31,7 +31,7 @@ As per reports from the finance minister, less than 3% people file income Tax re
 
 #### Who pays Income Tax and is it fairly divided?
 
-The poor does not earn enough to pay Tax, the elite/high earners hire chartered accountants (CA) to evade/avoid Tax. The middle class has taxable income and dont have money to hire CA. Salared class are even more affected because Tax is deducted at source (no scope for Tax evation). [A survey shows that "Salaried Indians pay more income Tax than high earners in US, China".](http://profit.ndtv.com/news/economy/article-salaried-indians-pay-more-income-Tax-than-high-earners-in-us-china-survey-381525) Income Tax, in a way, is a harrasment Tax for honest people. If you notice, all pay your Tax advertisements is something like this: Pay you taxes for a peace of mind. If we catch you, will be jailed or heavily fined. #TaxTerrorism
+The poor does not earn enough to pay Tax, the elite/high earners hire chartered accountants (CA) to evade/avoid Tax. The middle class has taxable income and dont have money to hire CA. Salared class are even more affected because Tax is deducted at source (no scope for Tax evation). [A survey shows that "Salaried Indians pay more income Tax than high earners in US, China".](http://profit.ndtv.com/news/economy/article-salaried-indians-pay-more-income-tax-than-high-earners-in-us-china-survey-381525) Income Tax, in a way, is a harrasment Tax for honest people. If you notice, all pay your Tax advertisements is something like this: Pay you taxes for a peace of mind. If we catch you, will be jailed or heavily fined. #TaxTerrorism
 
 People pay taxes because of fear and are not willingly. Corruption add to this by raising trust factors. Saving/Evading Tax is now socially accepted in general.
 
