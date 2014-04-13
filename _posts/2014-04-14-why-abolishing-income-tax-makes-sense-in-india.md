@@ -21,7 +21,7 @@ Few basic questions, that will help us understand the situation:
 ### Revenue share of Income tax on total tax collected
 
 ![Income Tax Share](/res/posts/why-abolishing-income-tax-makes-sense-in-india/income-tax-share.png)
-##### (As shown in Satyamev Jayate 2 - Kings Every Day)
+> (As shown in Satyamev Jayate 2 - Kings Every Day)
 
 From the above stats, we notice that Indirect tax generates more than twice the revenue collected through Income tax. And yes, Indirect tax is paid by all, including people below powerty line. Even a 1 rupee match box is sold inclusive of all taxes.
 
