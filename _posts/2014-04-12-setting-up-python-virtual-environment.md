@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [python, virtial environment, venv]
+categories: [python, virtual environment, virtualenv, venv]
 disqus_comments: true
 date: 2014-04-12 00:25:00 IST
 title: Setting up python vitual environment
