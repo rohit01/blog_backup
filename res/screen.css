@@ -148,8 +148,8 @@ div.content.photo {
   div.content *[align=left] { margin:0 1em 1em 0; }
 
   /*div.post strong { font-weight:inherit; background:#FBF4B1; }*/
-  div.content li { margin-left: 2em; margin-bottom:0.3em; }
-  div.content ul > li { margin-left:1.4em; }
+  div.content li { margin-left: 2em; margin-bottom:0.3em; text-align:justify; }
+  div.content ul > li { margin-left:1.4em; text-align:justify; }
   div.content p { text-align:justify; }
 
   div.content blockquote {
