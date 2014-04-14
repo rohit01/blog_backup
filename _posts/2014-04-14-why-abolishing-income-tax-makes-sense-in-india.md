@@ -31,7 +31,7 @@ As per reports from the finance minister, less than 3% people file Income Tax re
 
 #### Who pays Income Tax and is it fairly divided?
 
-The poor does not earn enough to pay Tax, the elite/high earners hire chartered accountants (CA) to evade/avoid Tax. The middle class has taxable income and don't have money to hire CA. Salaried class are even more affected because Tax is deducted at source (no scope for Tax evasion). [A survey shows that "Salaried Indians pay more income Tax than high earners in US, China".](http://profit.ndtv.com/news/economy/article-salaried-indians-pay-more-income-tax-than-high-earners-in-us-china-survey-381525) Income Tax, in a way, is a harassment Tax for honest people. If you notice, all pay your Tax advertisements is something like this: Pay you taxes for a peace of mind. If we catch you, will be jailed or heavily fined. #TaxTerrorism
+The poor does not earn enough to pay Tax, the elite/high earners hire chartered accountants (CA) to evade/avoid Tax. The middle class has taxable income and don't have money to hire CA. Salaried class are even more affected because Tax is deducted at source (no scope for Tax evasion). [A survey shows that "Salaried Indians pay more income Tax than high earners in US, China".](http://profit.ndtv.com/news/economy/article-salaried-indians-pay-more-income-tax-than-high-earners-in-us-china-survey-381525) Income Tax, in a way, is a harassment Tax for honest people. If you notice, all pay your Tax advertisements is something like this: Pay you taxes for a peace of mind. If we catch you, you will be jailed or heavily fined. #TaxTerrorism
 
 People pay taxes because of fear and are not willingly. Corruption add to this by raising trust factors. Saving/Evading Tax is now socially accepted in general.
 
