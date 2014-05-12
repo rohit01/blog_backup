@@ -7,10 +7,9 @@ extra_disqus_comments: true
 
 <img src="/res/about/rohit.jpg" width="256" height="170" align="right">
 
-Hi.. I am **Rohit Gupta**. I work as a developer at [Plivo](http://plivo.com), a YC-Backed Telephony Startup.
+**Rohit Gupta** is a FOSS developer and evangelist. He is passionate about technology and have worked in the area of convergence of telephony over web. Some of the projects he has worked upon include automating the cloud management over [Amazon Web Service](http://aws.amazon.com) using [boto](https://github.com/boto/boto), enabling high availability, failover solution and auto-scaling to ensure zero downtime and un-interrupted services to Plivo customers. As a FOSS enthusiast, he was instrumental in organizing the first ever [linux InstallFest](/first-ever-linux-installfest-in-kgec.html), founded the GNU/Linux User Group and presented FOSS tech talks in his [University](http://www.kgec.ac.in/).
 
-I am passionate about technologies and am currently working in the area of convergence of telephony over web. Some of the projects I have worked upon include automating the cloud management over [Amazon Web Service](http://aws.amazon.com) using [boto](https://github.com/boto/boto), enabling high availability, failover solution and auto-scaling to ensure zero downtime and un-interrupted services to Plivo customers.
-I am also a FOSS enthusiast and was instrumental in promoting it by organizing the first ever [linux InstallFest](/first-ever-linux-installfest-in-kgec.html) (with fedora 10) in my [university](http://www.kgec.ac.in/), founded a GNU/Linux User Group and presented FOSS tech talks. I was also a speaker at:
+**Speaker at International conferences:**
 
 - PyCon India 2012: Gave a talk on [Managing AWS Cloud with Python](http://in.pycon.org/2012/funnel/pyconindia2012/33-managing-aws-cloud-with-python)
 - PyCon Singapore 2013: Gave a talk on [Build service health dashboard using Shinken](https://pycon.sg/schedule/presentation/23/)
