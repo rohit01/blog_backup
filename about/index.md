@@ -24,8 +24,10 @@ I am also a FOSS enthusiast and was instrumental in promoting it by organizing t
 
 **[Get in Touch](mailto:rohit.kgec@gmail.com):**
 
-- [Twitter](http://twitter.com/rohit01) - nice way to make a contact
+- [Twitter](http://twitter.com/rohit01) — Nice way to make a contact
 - [GitHub](https://github.com/rohit01) — I host my projects here
-- [Linkedin](http://www.linkedin.com/in/rohit01) - connect with me
-- [Quora](http://www.quora.com/Rohit-Gupta-18) - Love to read interesting answers
-- [Facebook](https://www.facebook.com/rohit01io) - Friends forever!
+- [Linkedin](http://www.linkedin.com/in/rohit01) — Connect with me
+- [Quora](http://www.quora.com/Rohit-Gupta-18) — Love to read interesting answers
+- [Facebook](https://www.facebook.com/rohit01io) — Friends forever!
+
+**Resume** — [Click here](/Resume/)
