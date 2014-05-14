@@ -111,7 +111,7 @@ ELB Details (266 secs ago):
 1. Supported AWS services:
     * EC2 - Instance, Elastic IP and ELB
     * Route53 - All DNS types
-2. Search input value can be any one of the indexed item. Dikhao supports indexing based on the following: ([configurable](https://github.com/rohit01/dikhao/blob/master/dikhao/sync.py#L16))
+2. Search input value can be any one of the indexed item. Dikhao supports indexing based on the following ([configurable](https://github.com/rohit01/dikhao/blob/master/dikhao/sync.py#L16)):
     * Route 53 - DNS record name
     * Route 53 - DNS record value
     * EC2 Instance - ID
