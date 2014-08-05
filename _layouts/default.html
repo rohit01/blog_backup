@@ -8,9 +8,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="nqFRiL5CLLaixTWmkqcEQqRRIJaYmuXl33eQ_MlHtHM" />
     {% endif %}
-    <meta name="alexaVerifyID" content="ESI3sI-oYHgGTWXqc1DcEosi0-U"/>
-    <meta name="wot-verification" content="02caad43d640d0992610"/>
-    <meta name="norton-safeweb-site-verification" content="rahx9lxraiu7bv3ny10krzsp09-t8cai22w365oz7erp70kz570d4fozh1k5n1z2jrtblav2i4dn6af1uay4iv6vc7495s6alom75igtve7v8u3x8afl37owulvt6rp7" />
     <link href='http://fonts.googleapis.com/css?family=Poly:400,400italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" media="screen, projection" href="/res/screen.css" type="text/css">
     <link rel="stylesheet" media="print" href="/res/print.css" type="text/css">
@@ -52,6 +49,10 @@
     {% endif %}
     {% if page.include_move %}
     <script src="http://movelang.org/move.js"></script>
+    {% endif %}
+    {% if page.include_embed_gist %}
+      <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+      <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gist-embed/1.9/gist-embed.min.js"></script>
     {% endif %}
   </head>
   <body{% if page.wide_layout %} class="wide"{% endif %}>
