@@ -1,63 +1,48 @@
 User-agent: Googlebot
 Allow: *
-Disallow:
 
 User-agent: baiduspider
 Allow: *
-Disallow:
 
 User-agent: msnbot
 Allow: *
-Disallow:
 
 User-agent: naverbot
 Allow: *
-Disallow:
 
 User-agent: seznambot
 Allow: *
-Disallow:
 
 User-agent: Slurp
 Allow: *
-Disallow:
 
 User-agent: teoma
 Allow: *
-Disallow:
 
 User-agent: Yandex
 Allow: *
-Disallow:
 
 User-agent: CCBot
 Allow: *
-Disallow:
 
 User-agent: Telefonica
 Allow: *
-Disallow:
 
 User-agent: SandDollar
 Allow: *
-Disallow:
 
 User-agent: dotbot
 Allow: *
-Disallow:
 
 User-agent: rogerbot
 Allow: *
-Disallow:
 
 User-agent: IntuitGSACrawler
 Allow: *
-Disallow:
 
 User-agent: red-app-gsa-p-one
 Allow: *
-Disallow:
 
 User-agent: *
 Allow: *
-Disallow:
+
