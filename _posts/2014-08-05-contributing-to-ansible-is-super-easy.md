@@ -3,6 +3,7 @@ layout: post
 categories: [ansible, open-source, contributing, contribute, github, plivo]
 disqus_comments: true
 include_embed_gist: true
+social_buttons: true
 date: 2014-08-05 13:23:00 IST
 title: Contributing to Ansible is Super Easy
 ---

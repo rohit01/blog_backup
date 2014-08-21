@@ -2,6 +2,7 @@
 layout: post
 categories: [Meditation, Vipassana, Bodh gaya, ]
 disqus_comments: true
+social_buttons: true
 date: 2014-04-27 19:35:00 IST
 title: An Adventure with Meditation
 ---

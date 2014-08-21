@@ -2,6 +2,7 @@
 layout: post
 categories: [open-source, programming, python, linux, plivo, startup, lug]
 disqus_comments: true
+social_buttons: true
 date: 2010-01-20 09:00:00 IST
 title: Innocent Love
 ---

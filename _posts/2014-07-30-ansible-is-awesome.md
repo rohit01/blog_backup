@@ -2,6 +2,7 @@
 layout: post
 categories: [ansible, ansible playbook, configuration management, github]
 disqus_comments: true
+social_buttons: true
 date: 2014-07-30 10:30:00 IST
 title: Ansible is Awesome
 ---

@@ -2,6 +2,7 @@
 layout: post
 categories: [python, programming, linux]
 disqus_comments: true
+social_buttons: true
 date: 2012-07-16 12:13:00 UTC
 title: Introduction to python
 ---

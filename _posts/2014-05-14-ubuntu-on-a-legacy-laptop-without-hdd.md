@@ -2,6 +2,7 @@
 layout: post
 categories: [pendrive, usb, ubuntu, legacy, chromium, lxde, unity]
 disqus_comments: true
+social_buttons: true
 date: 2014-05-14 00:45:00 IST
 title: Ubuntu on a legacy laptop without HDD
 ---

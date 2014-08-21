@@ -2,6 +2,7 @@
 layout: post
 categories: [India, Income Tax, Tax]
 disqus_comments: true
+social_buttons: true
 date: 2014-04-14 00:21:00 IST
 title: Why abolishing Income Tax makes sense in India
 ---

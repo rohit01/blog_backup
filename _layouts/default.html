@@ -23,11 +23,12 @@
       <meta name="description" content="{{ page.description }}">
       <meta name="og:description" content="{{ page.description }}">
       {% else if content %}
-      <meta name="description" content="{{ content | strip_html | truncatewords: 25 }}">
-      <meta name="og:description" content="{{ content | strip_html | truncatewords: 25 }}">
+      <meta name="description" content="{{ content | strip_html | truncatewords: 75 }}">
+      <meta name="og:description" content="{{ content | strip_html | truncatewords: 75 }}">
       {% endif %}
     {% else %}
-      <meta name="description" content="Simplicity: Technical and social blog posts by Rohit Gupta - @rohit01. @rohit01 is a developer, foss enthusiast and an Indian nationalist">
+      <meta name="description" content="Simplicity: Technical and social blog posts by Rohit Gupta - @rohit01. @rohit01 is a developer, foss enthusiast and an Indian nationalist.">
+      <meta name="og:description" content="Simplicity: Technical and social blog posts by Rohit Gupta - @rohit01. @rohit01 is a developer, foss enthusiast and an Indian nationalist.">
     {% endif %}
     {% if page.og_image_url %}
     <meta property="og:image" content="{{ page.og_image_url }}">
@@ -53,11 +54,13 @@
       <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
       <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gist-embed/1.9/gist-embed.min.js"></script>
     {% endif %}
-    <!-- Social buttons JS start - ShareThis -->
-    <script type="text/javascript">var switchTo5x=true;</script>
-    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-    <script type="text/javascript">stLight.options({publisher: "d7a58b0f-2484-4ba1-b730-4c4097339922", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
-    <!-- Social buttons JS End - ShareThis -->
+    {% if page.social_buttons %}
+      <!-- Social buttons JS start - ShareThis -->
+      <script type="text/javascript">var switchTo5x=true;</script>
+      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+      <script type="text/javascript">stLight.options({publisher: "d7a58b0f-2484-4ba1-b730-4c4097339922", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+      <!-- Social buttons JS End - ShareThis -->
+    {% endif %}
   </head>
   <body{% if page.wide_layout %} class="wide"{% endif %}>
     <script>

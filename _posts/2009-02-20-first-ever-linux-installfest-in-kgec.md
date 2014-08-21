@@ -2,6 +2,7 @@
 layout: post
 categories: [installfest, fedora, linux, kgec, lug]
 disqus_comments: true
+social_buttons: true
 date: 2009-02-20 14:00:00 UTC
 title: First ever Linux Installfest in KGEC
 ---

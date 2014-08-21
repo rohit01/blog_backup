@@ -2,6 +2,7 @@
 layout: post
 categories: [simplicity, philisophy, blog]
 disqus_comments: true
+social_buttons: true
 date: 2014-02-09 15:19:00 IST
 title: Simplicity
 ---

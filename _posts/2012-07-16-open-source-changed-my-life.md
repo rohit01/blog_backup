@@ -2,6 +2,7 @@
 layout: post
 categories: [open-source, programming, python, linux, plivo, startup, lug]
 disqus_comments: true
+social_buttons: true
 date: 2012-07-16 03:14:00 UTC
 title: Open Source changed my life!
 ---

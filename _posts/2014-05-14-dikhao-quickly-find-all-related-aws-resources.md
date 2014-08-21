@@ -2,6 +2,7 @@
 layout: post
 categories: [dikhao, AWS, ec2, route53, redis, hubot, heroku]
 disqus_comments: true
+social_buttons: true
 date: 2014-05-14 13:10:00 IST
 title: Dikhao - Quickly find all related AWS resources
 ---

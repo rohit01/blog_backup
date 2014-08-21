@@ -2,6 +2,7 @@
 layout: post
 categories: [independence day, india, august 15, red fort, tricolor, paratha, parathe wali gali]
 disqus_comments: true
+social_buttons: true
 date: 2014-08-18 03:35:00 IST
 title: Not Just Another Independence Day
 ---

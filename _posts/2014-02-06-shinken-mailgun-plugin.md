@@ -2,6 +2,7 @@
 layout: post
 categories: [shinken, mailgun, programming, python, open-source]
 disqus_comments: true
+social_buttons: true
 date: 2014-02-06 02:40:00 IST
 title: Shinken mailgun plugin
 ---
