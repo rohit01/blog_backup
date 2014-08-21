@@ -2,7 +2,7 @@
 <html lang="en" prefix="og: http://ogp.me/ns#">
   <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Rohit Gupta</title>
+    <title>{% if page.title %}{{ page.title }}</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     {% if page.title != "Archive (sidebar)" %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -27,7 +27,7 @@
       <meta name="og:description" content="{{ content | strip_html | truncatewords: 25 }}">
       {% endif %}
     {% else %}
-      <meta name="description" content="Blog by Rohit Gupta -- An Indian Developer with passion for Technology">
+      <meta name="description" content="Simplicity: Technical and social blog posts by Rohit Gupta - @rohit01. @rohit01 is a developer, foss enthusiast and an Indian nationalist">
     {% endif %}
     {% if page.og_image_url %}
     <meta property="og:image" content="{{ page.og_image_url }}">

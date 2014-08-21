@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-categories: [about, rohit, rohit01, rohit.io, kgec, rohit gupta]
+categories: [about, rohit, rohit01, rohit.io, rohit gupta]
 extra_disqus_comments: true
 ---
 
