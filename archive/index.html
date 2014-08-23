@@ -4,57 +4,79 @@ title: Archive
 ---
 <img src="/res/archive.png" width="64" height="64" align="right" alt="archive">
 
-<form action="http://www.google.com/cse" id="cse-search-box">
+<form action="/archive" id="search-box">
   <p>
-    <input type="hidden" name="cx" value="014670916641113072512:l5v5hnjfxfu" />
-    <input type="hidden" name="ie" value="UTF-8" />
-    <input type="text" name="q" id="cse-search-field" placeholder="Search Rohit' stuff" />
-    <!--input type="submit" name="sa" value="Search" id="cse-search-button" /-->
+    <input type="text" name="q" id="search-query" placeholder="Search posts" class="search-query" autocomplete="off"/>
   </p>
 </form>
-<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-<script type="text/javascript">
-var search_field = document.getElementById('cse-search-field');
-search_field.style.background = null;
-if (window.rohitHostIsIOS) {
-  search_field.type = 'search';
-} else {
-  search_field.select();
-  search_field.focus();
-}
-search_field.addEventListener('blur', function (ev) {
-  this.style.background = null;
-});
 
-</script>
-<style type="text/css">
-#cse-search-field {
-  width: 70%;
-  font-size: inherit;
-  font-family: helvetica, sans-serif;
-  padding:0.5em 1em;
-}
-#cse-search-field {
-  border:2px solid #ddd;
-  border-radius: 90px;
-}
-#cse-search-field:focus {
-  outline:none;
-  border-color: #2299ff;
-}
-html.ios #cse-search-field {
-  padding:0.5em 1em;
-  -webkit-appearance: none;
-}
-html.ios #cse-search-button {
-  display: none;
-}
-</style>
+<section id="search-results">
+  <ul>
+    <div class="entries">
+      {% for post in site.posts %}
+        <li>
+          {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </div>
+  </ul>
+</section>
 
-<ul>
-{% for post in site.posts %}
+{% raw %}
+<script id="search-results-template" type="text/mustache">
+  {{#entries}}
   <li>
-    {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+    {{#date}}<time datetime="{{pubdate}}" pubdate>{{displaydate}}</time>{{/date}} &mdash; <a href="{{url}}">{{title}}</a>
   </li>
-{% endfor %}
-</ul>
+  {{/entries}}
+</script>
+{% endraw %}
+
+<script src="/res/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+  $(function() {
+    $('#search-query').lunrSearch({
+      index:    '/search.json',
+      results:  '#search-results',
+      entries:  '.entries',
+      template: '#search-results-template'
+    });
+  });
+</script>
+
+
+<script type="text/javascript">
+  var search_field = document.getElementById('search-query');
+  search_field.style.background = null;
+  if (window.rohitHostIsIOS) {
+    search_field.type = 'search';
+  } else {
+    search_field.select();
+    search_field.focus();
+  }
+  search_field.addEventListener('blur', function (ev) {
+    this.style.background = null;
+  });
+</script>
+
+
+<style type="text/css">
+  #search-query {
+    width: 70%;
+    font-size: inherit;
+    font-family: helvetica, sans-serif;
+    padding:0.5em 1em;
+  }
+  #search-query {
+    border:2px solid #ddd;
+    border-radius: 90px;
+  }
+  #search-query:focus {
+    outline:none;
+    border-color: #2299ff;
+  }
+  html.ios #search-query {
+    padding:0.5em 1em;
+    -webkit-appearance: none;
+  }
+</style>
