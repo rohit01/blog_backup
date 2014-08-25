@@ -5,6 +5,8 @@ disqus_comments: true
 social_buttons: true
 date: 2014-04-12 00:25:00 IST
 title: Setting up python vitual environment
+redirect_from:
+  - /setting-up-python-virtual-environment.html
 ---
 
 Using python virtual environment for development is highly recommended and is widely used by python programmers. Debian/Ubuntu commands to install python virtualenv are as follows:

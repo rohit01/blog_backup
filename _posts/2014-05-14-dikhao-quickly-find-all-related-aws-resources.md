@@ -5,6 +5,8 @@ disqus_comments: true
 social_buttons: true
 date: 2014-05-14 13:10:00 IST
 title: Dikhao - Quickly find all related AWS resources
+redirect_from:
+  - /dikhao-quickly-find-all-related-aws-resources.html
 ---
 
 Dikhao is an open source project ([hosted in github](https://github.com/rohit01/dikhao)), to cache every EC2 and route53 resource, find relations between them, and provide really fast lookups. It can be installed as a python command line utility (*pip install dikhao*), deployed in [Heroku](https://heroku.com/) and has a ready to use [hubot](https://hubot.github.com/) plugin.

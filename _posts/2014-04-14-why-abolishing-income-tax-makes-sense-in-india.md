@@ -5,6 +5,8 @@ disqus_comments: true
 social_buttons: true
 date: 2014-04-14 00:21:00 IST
 title: Why abolishing Income Tax makes sense in India
+redirect_from:
+  - /why-abolishing-income-tax-makes-sense-in-india.html
 ---
 
 We all know, Income Tax is a major source of revenue for government expenditures. But, do we know the impact and effectiveness of Income Tax laws in India?

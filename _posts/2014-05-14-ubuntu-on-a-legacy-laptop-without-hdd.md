@@ -5,6 +5,8 @@ disqus_comments: true
 social_buttons: true
 date: 2014-05-14 00:45:00 IST
 title: Ubuntu on a legacy laptop without HDD
+redirect_from:
+  - /dikhao-quickly-find-all-related-aws-resources.html
 ---
 
 I have a 6 year old legacy laptop with **impaired battery, DVD drive and hard drive**. It lay unused for over a year, but recently, I decided to use it like a full fledge Linux laptop. Here's the screenshot of my laptop running the latest version of *Firefox in Ubuntu 12.04*:

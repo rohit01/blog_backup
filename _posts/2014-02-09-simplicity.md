@@ -5,6 +5,8 @@ disqus_comments: true
 social_buttons: true
 date: 2014-02-09 15:19:00 IST
 title: Simplicity
+redirect_from:
+  - /simplicity.html
 ---
 
 Today, I changed the title of my blog to **Simplicity**. A simple thought, life, action and relation is somewhere lost in this complicated world! **Simplicity is an aquired taste**. A taste, which helped google dominate the web, Apple to be regarded as the biggest brand and Mahatma Gandhi to become the father of the Nation.

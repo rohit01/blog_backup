@@ -5,6 +5,8 @@ disqus_comments: true
 social_buttons: true
 date: 2014-07-30 10:30:00 IST
 title: Ansible is Awesome
+redirect_from:
+  - /ansible-is-awesome.html
 ---
 
 Since a couple of weeks, I have started using Ansible and am amazed with its awesomeness. In this short duration, I automated a bunch of items, read about best practices and found a lot of batteries/community projects.

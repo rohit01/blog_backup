@@ -5,6 +5,8 @@ disqus_comments: true
 social_buttons: true
 date: 2010-01-20 09:00:00 IST
 title: Innocent Love
+redirect_from:
+  - /innocent-love.html
 ---
 
 <pre>

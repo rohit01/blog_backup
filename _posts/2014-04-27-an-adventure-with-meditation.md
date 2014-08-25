@@ -5,6 +5,8 @@ disqus_comments: true
 social_buttons: true
 date: 2014-04-27 19:35:00 IST
 title: An Adventure with Meditation
+redirect_from:
+  - /an-adventure-with-meditation.html
 ---
 
 Today, I came back from a 10 day Vipassana meditation course, meditating 10 hrs per day. A great learning experience with purity from the age of Buddha - Render of Peace. Realizing that this experience can only be *experienced*, pardon me for just being able to present a brief outline about the same.

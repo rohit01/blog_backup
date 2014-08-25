@@ -6,6 +6,8 @@ social_buttons: true
 date: 2013-11-10 21:40:00 IST
 photo_url: /res/posts/rakum-school-for-the-blind/rakum-cover.jpg
 title: Rakum School for the Blind
+redirect_from:
+  - /rakum-school-for-the-blind.html
 ---
 
 ![](/res/posts/rakum-school-for-the-blind/rakum.jpg)
