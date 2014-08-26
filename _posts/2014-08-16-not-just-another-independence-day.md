@@ -1,12 +1,19 @@
 ---
 layout: post
-categories: [independence day, india, august 15, red fort, tricolor, paratha, parathe wali gali]
-disqus_comments: true
-social_buttons: true
 date: 2014-08-18 03:35:00 IST
 title: Not Just Another Independence Day
 redirect_from:
   - /not-just-another-independence-day.html
+categories:
+  - social
+tags:
+  - independence day
+  - india
+  - august 15
+  - red fort
+  - tricolor
+  - paratha
+  - parathe wali gali
 ---
 
 My alarm rang with a musical note, I turned it off and saw it's 4:15 in the morning. Surprisingly, my friend was already awake and I wished him ***Good Morning***, he replied ***Jai Hind***. This was the start and it certainly set the mood for making it *Not Just Another Independence Day*!

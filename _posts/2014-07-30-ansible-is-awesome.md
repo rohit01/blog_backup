@@ -1,17 +1,21 @@
 ---
 layout: post
-categories: [ansible, ansible playbook, configuration management, github]
-disqus_comments: true
-social_buttons: true
 date: 2014-07-30 10:30:00 IST
 title: Ansible is Awesome
 redirect_from:
   - /ansible-is-awesome.html
+categories:
+  - technology
+tags:
+  - ansible
+  - ansible playbook
+  - configuration management
+  - github
 ---
 
 Since a couple of weeks, I have started using Ansible and am amazed with its awesomeness. In this short duration, I automated a bunch of items, read about best practices and found a lot of batteries/community projects.
 
-##### So, what really makes Ansible awesome?
+## So, what really makes Ansible awesome?
 
 1. **Features:**
 
@@ -36,14 +40,14 @@ Since a couple of weeks, I have started using Ansible and am amazed with its awe
 
 3. **Batteries Included** - [Ansible modules](http://docs.ansible.com/list_of_all_modules.html)
 
-4. **Open-source project and under active development**
+4. **[Open-source project](https://github.com/ansible/ansible) and under active development**
 
 5. **Change management:**
 
     * Ansible is intellegent in making changes only if it is necessary. This means, when you ask ansible to install a software, it will install it only if it is not installed. It also provides a special `register` method to trap the result in a variable. This variable can later be used in conditional statements to act differently.
 
-##### My playbooks written as per guidelines on best practices
+## My playbooks written as per guidelines on best practices
 
-Github repository: [https://github.com/rohit01/ansible-playbooks](https://github.com/rohit01/ansible-playbooks). This project provides a basic layout for building configuration management system using Ansible.
+Github repository: <https://github.com/rohit01/ansible-playbooks>. This project provides a basic layout for building configuration management system using Ansible.
 
 Would love to hear your feedback in comments. **And as always, Thanks for reading :-)**

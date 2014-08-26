@@ -1,12 +1,19 @@
 ---
 layout: post
-categories: [open-source, programming, python, linux, plivo, startup, lug]
-disqus_comments: true
-social_buttons: true
 date: 2012-07-16 03:14:00 UTC
 title: Open Source changed my life!
 redirect_from:
   - /open-source-changed-my-life.html
+categories:
+  - social
+tags:
+  - open-source
+  - programming
+  - python
+  - linux
+  - plivo
+  - startup
+  - lug
 ---
 
 I started of with open source/linux in my first year of graduation and soon fell in love with it. It was my hobby. Now I am working for a open-source based startup: [Plivo Inc.](http://plivo.com)

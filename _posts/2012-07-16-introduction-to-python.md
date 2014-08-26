@@ -1,12 +1,15 @@
 ---
 layout: post
-categories: [python, programming, linux]
-disqus_comments: true
-social_buttons: true
 date: 2012-07-16 12:13:00 UTC
 title: Introduction to python
 redirect_from:
   - /introduction-to-python.html
+categories:
+  - technology
+tags:
+  - python
+  - programming
+  - linux
 ---
 
 Heard about C, C++, java, .net, ...? These are the popular programming languages extensively used in industry. Have you heard about python or ruby? These are also programming languages, pretty powerful & easy to learn. Python & ruby are also widely used, especially in startups. Python is also known as a language with batteries included because it has a very rich standard library and lots of third pary libraries.
@@ -36,4 +39,4 @@ Starting python prompt is simple. Just type 'python' in linux console. If trying
 
 Some [recommended tutorials](/res/posts/introduction-to-python/basic_python.zip) by [fossee group](http://fossee.in/) (IIT Bombay): [http://rohit.io/res/posts/introduction-to-python/basic_python.zip](/res/posts/introduction-to-python/basic_python.zip)
 
-Please post comments if you have any question or suggestion.
+Post your feedback in comments. **Thanks for reading** :)

@@ -1,21 +1,22 @@
 ---
 layout: post
-categories: [installfest, fedora, linux, kgec, lug]
-disqus_comments: true
-social_buttons: true
 date: 2013-11-10 21:40:00 IST
-photo_url: /res/posts/rakum-school-for-the-blind/rakum-cover.jpg
 title: Rakum School for the Blind
+subtitle: We live on what you give
+description: Sri Rakum School for the Blind is a unique blind school at Indranagar, Bangalore, India. It offers free education from kinder garden to post graduation. Moto - We live on what you give
 redirect_from:
   - /rakum-school-for-the-blind.html
+categories:
+  - social
+tags:
+  - installfest
+  - fedora
+  - linux
+  - kgec
+  - lug
 ---
 
-![](/res/posts/rakum-school-for-the-blind/rakum.jpg)
-# **[Sri Rakum School for the Blind](http://www.rakum.org/)**
-
-<info datetime="{{ page.date | date: "%Y-%m-%d" }}">
-  {{ page.date | date: "%b %d, %Y" }}
-</info>
+![We live on what you give](/res/posts/rakum-school-for-the-blind/rakum.jpg)
 
 Visited sometime back. It is a unique blind school at [Indranagar, Bangalore, India](https://maps.google.com/maps?q=Rakum+Blind+School,+Bangalore,+Karnataka,+India&hl=en&sll=37.0625,-95.677068&sspn=46.409192,81.5625&oq=rakum+&t=m&z=17). It offers free education from kinder garden to post graduation. I saw a group of sweet kids going back to their [dorms](http://rakum.org/rakum_school/node/147) after regular school exams. Contrary to the expectation, not every child is visually challenged. The school allows normal kids whose parents are blind. The school is small but beautifully maintained. Strength of this school is around 150, mostly small kids. The school also helps old women with no means of employment by organizing an event called the Seva Day. In this event, more than 200 old women from the neighborhood draw a monthly pension of Rs 100/- each along with food rations for a month.
 

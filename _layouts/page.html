@@ -1,6 +1,15 @@
 ---
-layout: default
+layout: main
+blog_post: true
 ---
-<div class="content">
-  {{ content }}
+
+<div id="container">
+  <section id="content" role="main">
+    <article id="{{ page.id }}" class="{{ page.id }}">
+      <!-- Content -->
+      <section class="entry-content">
+        {{ content }}
+      </section>
+    </article>
+  </section>
 </div>

@@ -1,12 +1,17 @@
 ---
 layout: post
-categories: [freedomfest, fedora, linux, kgec, lug]
-disqus_comments: true
-social_buttons: true
 date: 2009-04-22 14:00:00 UTC
 title: Starting KGEC LUG with FreedomFest '09
 redirect_from:
   - /starting-kgec-lug-with-freedomfest-09.html
+categories:
+  - technology
+tags:
+  - freedomfest
+  - fedora
+  - linux
+  - kgec
+  - lug
 ---
 
 **The Beginning**:
