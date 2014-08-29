@@ -3,7 +3,7 @@ layout: blank
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Rohit Gupta</title>
+  <title>Simplicity - @rohit01</title>
   <link href="http://www.rohit.io/rss.xml" rel="self"/>
   <link href="http://www.rohit.io/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
