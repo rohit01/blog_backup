@@ -21,7 +21,11 @@
   <!-- SEO and facebook opengraph stuff -->
   <link rel="canonical" href="http://{{ site.website }}{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}" />
   <meta property="og:locale" content="en_US" />
-  <meta property="og:type" content="article" />
+  {% if page.url == "/index.html" %}
+    <meta property="og:type" content="blog" />
+  {% else %}
+    <meta property="og:type" content="article" />
+  {% endif %}
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}Rohit Gupta - Simplicity{% endif %}" />
   {% if page.title %}
     {% if page.description %}
