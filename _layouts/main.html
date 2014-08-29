@@ -29,9 +29,9 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}Rohit Gupta - Simplicity{% endif %}" />
   {% if page.title %}
     {% if page.description %}
-      <meta name="og:description" content="{{ page.description | strip_html | uri_escape }}">
+      <meta name="og:description" content="{{ page.description | strip_html | escape_once }}">
     {% else if page.content %}
-      <meta name="og:description" content="{{ page.excerpt | strip_html | uri_escape }}">
+      <meta name="og:description" content="{{ page.excerpt | strip_html | escape_once }}">
     {% endif %}
   {% else %}
     <meta name="og:description" content="Rohit&#39;s Blog - Simplicity&#58; Technical and social articles. &#64;rohit01 is a developer, foss enthusiast and an Indian nationalist.">
