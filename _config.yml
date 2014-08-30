@@ -29,6 +29,7 @@ lunr_search:
     - res/*
 
 website: 'www.rohit.io'
+author_name: 'Rohit Gupta'
 publisher: 'https://www.facebook.com/rohit01io'
 default_home_thumbnails:
   - 'vivekananda.png'
