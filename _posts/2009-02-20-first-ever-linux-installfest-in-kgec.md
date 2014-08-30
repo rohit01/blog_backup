@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-02-20 14:00:00 UTC
+date: 2009-02-20 14:00:00 IST
 title: First ever Linux Installfest in KGEC
 redirect_from:
   - /first-ever-linux-installfest-in-kgec.html

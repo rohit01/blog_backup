@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-07-16 12:13:00 UTC
+date: 2012-07-16 12:13:00 IST
 title: Introduction to python
 redirect_from:
   - /introduction-to-python.html
