@@ -1,15 +1,8 @@
 ---
 layout: page
-title: About {{ site.author_name }}
+title: About Rohit Gupta
+categories: [about, rohit, rohit01, rohit.io, rohit gupta]
 page_image: /res/about/rohit.jpg
-categories:
-  - social
-tags:
-  - about
-  - rohit
-  - rohit01
-  - rohit.io
-  - {{ site.author_name }}
 ---
 
 {% include about.md %}

@@ -3,7 +3,7 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width" />
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %} | {{ site.website }}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}Rohit Gupta - Simplicity{% endif %} | {{ site.website }}</title>
 
   <link rel="stylesheet" type="text/css" href="/res/css/style.css" />
   <link rel="stylesheet" id='prism-css' type='text/css' media='all' href="/res/css/prism.css" />
@@ -26,7 +26,7 @@
   {% else %}
     <meta property="og:type" content="article" />
   {% endif %}
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %}" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}Rohit Gupta - Simplicity{% endif %}" />
   {% if page.description %}
     <meta name="og:description" content="{{ page.description | strip_html | escape_once }}">
   {% else if page.content %}
