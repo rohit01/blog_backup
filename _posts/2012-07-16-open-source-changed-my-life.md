@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-07-16 03:14:00 UTC
+date: 2012-07-16 03:14:00 IST
 title: Open Source changed my life!
 redirect_from:
   - /open-source-changed-my-life.html

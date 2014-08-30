@@ -9,7 +9,7 @@ layout: blank
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://www.rohit.io/</id>
   <author>
-    <name>Rohit Gupta</name>
+    <name>{{ site.author_name }}</name>
     <email>hello@rohit.io</email>
   </author>
   {% for post in site.posts limit:10 %}
@@ -20,7 +20,7 @@ layout: blank
     <id>http://www.rohit.io{{ post.id }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
     <author>
-      <name>Rohit Gupta</name>
+      <name>{{ site.author_name }}</name>
       <uri>http://www.rohit.io/about/</uri>
     </author>
   </entry>
