@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About {{ site.author_name }}
+title: About Rohit Gupta
 page_image: /res/about/rohit.jpg
 categories:
   - social
