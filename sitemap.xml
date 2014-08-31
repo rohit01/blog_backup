@@ -33,6 +33,6 @@ layout: blank
     <loc>http://{{ site.website }}/search/</loc>
     <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.5</priority>
   </url>
 </urlset>
