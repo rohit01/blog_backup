@@ -84,13 +84,13 @@ blog_post: true
         <div class="post-foot-signoff">
           <div class="kind-of-a-big-deal">
             <h3>Other posts</h3>
-            {% for post in site.related_posts limit:2 %}
+            {% for post in site.related_posts limit:1 %}
               <div class="nav-previous"><a href="{{ post.url }}" rel="prev">{{ post.title }}&nbsp;&rarr;</a></div>
             {% endfor %}
           </div>
           <div class="goforth">
             <h3>&nbsp;</h3>
-            {% for post in site.related_posts limit:2 offset:2 %}
+            {% for post in site.related_posts limit:1 offset:1 %}
               <div class="nav-next"><a href="{{ post.url }}" rel="next">{{ post.title }}&nbsp;&rarr;</a></div>
             {% endfor %}
           </div>
