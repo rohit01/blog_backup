@@ -6,7 +6,7 @@
 **Speaker at International conferences:**
 
 - PyCon India 2012: Gave a talk on [Managing AWS Cloud with Python](http://in.pycon.org/2012/funnel/pyconindia2012/33-managing-aws-cloud-with-python)
-- PyCon Singapore 2013: Gave a talk on [Build service health dashboard using Shinken](https://pycon.sg/schedule/presentation/23/)
+- PyCon Singapore 2013: Gave a talk on [Build service health dashboard using Shinken](https://pycon.sg/static/archive/2013/speaker/profile/13/index.html)
 
 **Slides:**
 
