@@ -28,11 +28,14 @@
   {% endif %}
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %}" />
   {% if page.description %}
-    <meta name="og:description" content="{{ page.description | strip_html | escape_once }}">
+    <meta name="og:description" content="{{ page.description | escape_once }}">
+    <meta name="description" content="{{ page.description | escape_once }}">
   {% else if page.content %}
     <meta name="og:description" content="{{ page.excerpt | strip_html | escape_once }}">
+    <meta name="description" content="{{ page.excerpt | strip_html | escape_once }}">
   {% else %}
     <meta name="og:description" content="{{ 'Blog on technical and social articles. @rohit01 is a developer, foss enthusiast and an Indian nationalist.' | escape_once }}">
+    <meta name="description" content="{{ 'Blog on technical and social articles. @rohit01 is a developer, foss enthusiast and an Indian nationalist.' | escape_once }}">
   {% endif %}
   <meta property="og:url" content="http://{{ site.website }}{{ page.url }}" />
   <meta property="og:site_name" content="Rohit Blog - Simplicity" />
