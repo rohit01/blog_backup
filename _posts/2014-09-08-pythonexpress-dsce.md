@@ -14,7 +14,7 @@ tags:
 thumbnail: /res/posts/pythonexpress-dsce/dept_of_cs_and_is.jpg
 ---
 
-Spent an exciting weekend with college students of Dayananda Sagar College of Engineering (DSCE). They conducted a python workshop on 6-7 Sept, 2014 and invited me as a trainer (Thanks to [pythonexpress](http://www.pythonexpress.in/)).
+Spent an exciting weekend with college students of Dayananda Sagar College of Engineering (DSCE), Bangalore. They conducted a python workshop on 6-7 Sept, 2014 and invited me as a trainer (Thanks to [pythonexpress](http://www.pythonexpress.in/)).
 
 ![Me with DSCE students](/res/posts/pythonexpress-dsce/group_pic.jpg)
 
