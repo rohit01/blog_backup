@@ -39,7 +39,7 @@
   {% endif %}
   <meta property="og:url" content="http://{{ site.website }}{{ page.url }}" />
   <meta property="og:site_name" content="Rohit Blog - Simplicity" />
-  <meta property="og:image" content="{% if page.og_image_url %}{{ page.og_image_url }}{% else %}/res/about/rohit.jpg{% endif %}" />
+  <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail }}{% else %}/res/about/rohit.jpg{% endif %}" />
   <meta property="fb:admins" content="100002166380499" />
   <meta property="fb:app_id" content="1465422930395544" /> 
   {% if page.date %}

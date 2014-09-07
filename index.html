@@ -12,7 +12,9 @@ description: "Blog on technical and social articles. @rohit01 is a developer, fo
       <a class="featured-post" href="{{ post.url }}">
         <div>
           <h2>{{ post.title }}</h2>
-            {% if site.default_home_thumbnails[thumb_index] %}
+            {% if post.thumbnail %}
+              <img src="{{ post.thumbnail }}" alt="www.rohit.io">
+            {% elsif site.default_home_thumbnails[thumb_index] %}
               <img src="/res/images/thumbnail/{{ site.default_home_thumbnails[thumb_index] }}" alt="www.rohit.io">
             {% else %}
               {% assign thumb_index = 0 %}
