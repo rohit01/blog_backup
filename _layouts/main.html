@@ -26,7 +26,11 @@
   {% else %}
     <meta property="og:type" content="article" />
   {% endif %}
-  <meta name="twitter:card" content="summary">
+  {% if page.thumbnail %}
+    <meta name="twitter:card" content="summary_large_image">
+  {% else %}
+    <meta name="twitter:card" content="summary">
+  {% endif %}
   <meta name="title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %}" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | truncate: 70 }}{% else %}{{ site.author_name }} - Simplicity{% endif %}">
@@ -53,6 +57,7 @@
   <meta property="og:site_name" content="Rohit Gupta - Simplicity" />
   <meta property="og:image" content="http://{{ site.website }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}/res/about/rohit.jpg{% endif %}" />
   <meta name="twitter:image" content="http://{{ site.website }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}/res/about/rohit.jpg{% endif %}" />
+  <meta name="twitter:image:src" content="http://{{ site.website }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}/res/about/rohit.jpg{% endif %}" />
   <meta property="fb:admins" content="100002166380499" />
   <meta property="fb:app_id" content="1465422930395544" /> 
   {% if page.date %}
