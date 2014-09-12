@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<html lang="en-US">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width" />
@@ -26,20 +26,38 @@
   {% else %}
     <meta property="og:type" content="article" />
   {% endif %}
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %}" />
-  {% if page.description %}
-    <meta name="og:description" content="{{ page.description | escape_once }}">
-    <meta name="description" content="{{ page.description | escape_once }}">
-  {% else if page.content %}
-    <meta name="og:description" content="{{ page.excerpt | strip_html | escape_once }}">
-    <meta name="description" content="{{ page.excerpt | strip_html | escape_once }}">
+  {% if page.thumbnail %}
+    <meta name="twitter:card" content="summary_large_image">
   {% else %}
-    <meta name="og:description" content="{{ 'Blog on technical and social articles. @rohit01 is a developer, foss enthusiast and an Indian nationalist.' | escape_once }}">
-    <meta name="description" content="{{ 'Blog on technical and social articles. @rohit01 is a developer, foss enthusiast and an Indian nationalist.' | escape_once }}">
+    <meta name="twitter:card" content="summary">
+  {% endif %}
+  <meta name="title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %}" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %}" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | truncate: 70 }}{% else %}{{ site.author_name }} - Simplicity{% endif %}">
+  <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %}">
+  {% if page.description %}
+    <meta name="description" content="{{ page.description | escape_once }}">
+    <meta property="og:description" content="{{ page.description | escape_once }}">
+    <meta name="twitter:description" content="{{ page.description | truncate: 200 | escape_once }}">
+    <meta itemprop="description" content="{{ page.description | escape_once }}">
+  {% else if page.content %}
+    <meta name="description" content="{{ page.excerpt | strip_html | escape_once }}">
+    <meta property="og:description" content="{{ page.excerpt | strip_html | escape_once }}">
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 200 | escape_once }}">
+    <meta itemprop="description" content="{{ page.excerpt | strip_html | escape_once }}">
+  {% else %}
+    <meta name="description" content="Blog on technical and social articles. @rohit01 is a developer, foss enthusiast and an Indian nationalist.">
+    <meta property="og:description" content="Blog on technical and social articles. @rohit01 is a developer, foss enthusiast and an Indian nationalist.">
+    <meta name="twitter:description" content="Blog on technical and social articles. @rohit01 is a developer, foss enthusiast and an Indian nationalist.">
+    <meta itemprop="description" content="Blog on technical and social articles. @rohit01 is a developer, foss enthusiast and an Indian nationalist.">
   {% endif %}
   <meta property="og:url" content="http://{{ site.website }}{{ page.url }}" />
-  <meta property="og:site_name" content="Rohit Blog - Simplicity" />
-  <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail }}{% else %}/res/about/rohit.jpg{% endif %}" />
+  <meta name="twitter:url" content="http://{{ site.website }}{{ page.url }}" />
+  <meta name="original-source" content="http://{{ site.website }}{{ page.url }}" />
+  <meta property="og:site_name" content="Rohit Gupta - Simplicity" />
+  <meta property="og:image" content="http://{{ site.website }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}/res/about/rohit.jpg{% endif %}" />
+  <meta name="twitter:image" content="http://{{ site.website }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}/res/about/rohit.jpg{% endif %}" />
+  <meta name="twitter:image:src" content="http://{{ site.website }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}/res/about/rohit.jpg{% endif %}" />
   <meta property="fb:admins" content="100002166380499" />
   <meta property="fb:app_id" content="1465422930395544" /> 
   {% if page.date %}
@@ -54,17 +72,20 @@
   {% endif %}
   <meta property="article:section" content="Computers/Technology">
   {% if page.tags %}
+    <meta name="keywords" content="{{ page.tags | join: ', ' | escape_once }}">
     {% for tag_name in page.tags %}
       <meta property="article:tag" content="{{ tag_name }}">
     {% endfor %}
   {% endif %}
+  <meta name="twitter:site" content="@rohit01">
+  <meta name="twitter:creator" content="@rohit01">
+  <meta name="generator" content="jekyll" />
   <!-- / SEO and facebook opengraph stuff -->
 
   <link rel="alternate" type="application/rss+xml" title="Simplicity &raquo; Feed" href="http://{{ site.website }}/rss.xml" />
   <link rel="alternate" type="application/rss+xml" title="Simplicity &raquo; Comments Feed" href="http://disqus.com/rohitio/latest.rss" />
   <script type='text/javascript' src='/res/js/jquery-1.11.1.min.js'></script>
   <script type='text/javascript' src='/res/js/jquery-migrate-1.2.1.min.js'></script>
-  <meta name="generator" content="jekyll" />
   <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 
   {% if page.ios_app_name %}
