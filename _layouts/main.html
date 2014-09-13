@@ -5,11 +5,10 @@ layout: minify
 <!DOCTYPE html>
 <html lang="en-US">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width" />
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %} | {{ site.website }}</title>
 
-  <link rel="stylesheet" type="text/css" href="/res/css/style.css" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width" />
   <meta name="viewport" content="width=device-width, user-scalable=no" />
   <script>document.createElement("header"),document.createElement("nav"),document.createElement("section"),document.createElement("article"),document.createElement("aside"),document.createElement("footer");</script>
   <div id="fb-root"></div>
@@ -86,8 +85,6 @@ layout: minify
 
   <link rel="alternate" type="application/rss+xml" title="Simplicity &raquo; Feed" href="http://{{ site.website }}/rss.xml" />
   <link rel="alternate" type="application/rss+xml" title="Simplicity &raquo; Comments Feed" href="http://disqus.com/rohitio/latest.rss" />
-  <script type='text/javascript' src='/res/js/jquery-1.11.1.min.js'></script>
-  <script type='text/javascript' src='/res/js/jquery-migrate-1.2.1.min.js'></script>
   <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 
   {% if page.ios_app_name %}
@@ -95,7 +92,10 @@ layout: minify
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   {% endif %}
+
+  <style type='text/css'>{% include css/style.css %}</style>
 </head>
+
 {% if page.blog_post %}
   <body class="single single-post">
 {% else %}

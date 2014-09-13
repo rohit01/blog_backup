@@ -30,28 +30,7 @@
   {{/entries}}
 </script>
 {% endraw %}
-<!-- jekyll lunr-js -->
-<script src="/res/js/search.min.js" type="text/javascript" charset="utf-8"></script>
-<script type="text/javascript">
-  $(function() {
-    $('#search-query').lunrSearch({
-      index:    '/search.json',
-      results:  '#search-results',
-      entries:  '.entries',
-      template: '#search-results-template'
-    });
-  });
-</script>
-<!-- iOS text box styling-->
-<script type="text/javascript">
-  var search_field = document.getElementById('search-query');
-  search_field.style.background = null;
-  search_field.select();
-  search_field.focus();
-  search_field.addEventListener('blur', function (ev) {
-    this.style.background = null;
-  });
-</script>
+
 <!-- Search box inline stying -->
 <style type="text/css">
   #search-query {
@@ -73,3 +52,28 @@
     -webkit-appearance: none;
   }
 </style>
+
+<!-- jekyll lunr-js -->
+<script type='text/javascript' src='/res/js/jquery-1.11.1.min.js'></script>
+<script type='text/javascript' src='/res/js/jquery-migrate-1.2.1.min.js'></script>
+<script src="/res/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+  $(function() {
+    $('#search-query').lunrSearch({
+      index:    '/search.json',
+      results:  '#search-results',
+      entries:  '.entries',
+      template: '#search-results-template'
+    });
+  });
+</script>
+<!-- iOS text box styling-->
+<script type="text/javascript">
+  var search_field = document.getElementById('search-query');
+  search_field.style.background = null;
+  search_field.select();
+  search_field.focus();
+  search_field.addEventListener('blur', function (ev) {
+    this.style.background = null;
+  });
+</script>
