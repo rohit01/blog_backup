@@ -13,6 +13,7 @@ tags:
   - contribute
   - github
   - plivo
+thumbnail: /res/posts/contributing-to-ansible-is-super-easy/ansible-contribution.gif
 ---
 
 Just three days back, I thought about writing a SMS notification module and bingo, I was able to send a [pull request](https://github.com/ansible/ansible/pull/8408), same day. I submitted a module named 'plivo' which allows sending SMS notification using [Plivo](https://www.plivo.com) services. The playbook examples are hosted here: [https://github.com/rohit01/ansible-plivo-example](https://github.com/rohit01/ansible-plivo-example).

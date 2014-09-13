@@ -11,6 +11,7 @@ tags:
   - ansible playbook
   - configuration management
   - github
+thumbnail: /res/posts/ansible-is-awesome/ansible-logo.png
 ---
 
 Since a couple of weeks, I have started using Ansible and am amazed with its awesomeness. In this short duration, I automated a bunch of items, read about best practices and found a lot of batteries/community projects.
