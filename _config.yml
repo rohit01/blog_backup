@@ -22,11 +22,11 @@ gems:
 lunr_search:
   excludes:
     - index.html
+    - 404.html
     - rss.xml
-    - atom.xml
-    - about/*
-    - archive/*
-    - res/*
+    - about/index.html
+    - search/index.html
+    - /res/*
 
 website: 'www.rohit.io'
 author_name: 'Rohit Gupta'
