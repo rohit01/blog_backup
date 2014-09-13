@@ -28,11 +28,7 @@ layout: minify
   {% else %}
     <meta property="og:type" content="article" />
   {% endif %}
-  {% if page.thumbnail %}
-    <meta name="twitter:card" content="summary_large_image">
-  {% else %}
-    <meta name="twitter:card" content="summary">
-  {% endif %}
+  <meta name="twitter:card" content="summary">
   <meta name="title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.author_name }} - Simplicity{% endif %}" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | truncate: 70 }}{% else %}{{ site.author_name }} - Simplicity{% endif %}">
