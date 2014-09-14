@@ -1,5 +1,4 @@
-Open source projects
-====================
+## Open source projects
 
 * [Zero Users](https://github.com/rohit01/zero-users) &mdash; Zero hassle Linux user management. Built with ♥ and Ansible
 
