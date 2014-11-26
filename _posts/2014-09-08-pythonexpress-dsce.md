@@ -2,8 +2,6 @@
 layout: post
 date: 2014-09-08 01:45:00 IST
 title: PythonExpress @ DSCE
-redirect_from:
-  - /not-just-another-independence-day.html
 categories:
   - technology
 tags:
