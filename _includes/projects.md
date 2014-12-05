@@ -1,5 +1,9 @@
 ## Open source projects
 
+<br />
+
+* [Docker Shinken](https://github.com/rohit01/docker_shinken) &mdash; Automated docker builds for [shinken](https://registry.hub.docker.com/u/rohit01/shinken/), [shinken_thruk](https://registry.hub.docker.com/u/rohit01/shinken_thruk/) and [shinken_thruk_graphite](https://registry.hub.docker.com/u/rohit01/shinken_thruk_graphite/)
+
 * [Zero Users](https://github.com/rohit01/zero-users) &mdash; Zero hassle Linux user management. Built with ♥ and Ansible
 
 * [Dikhao](https://github.com/rohit01/dikhao) &mdash; Quickly find all related AWS resources
@@ -13,5 +17,3 @@
 * [Shinken Mailgun Plugin](https://github.com/rohit01/shinken_mailgun_plugin) &mdash; Utility to send emails using mailgun for Shinken alerts
 
 * [NRPE Plugins](https://github.com/rohit01/nrpe-plugins) &mdash; Custom NRPE plugins for use with Shinken/Nagios
-
-* [LCloud](https://github.com/rohit01/lcloud) &mdash; Configure your local system with a mini cloud (Development in progress)
