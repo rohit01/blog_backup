@@ -5,7 +5,7 @@ lsi: false
 #DEFAULT permalink: /:year/:month/:day/:title.html
 permalink: /blog/:title.html
 # Pagination configuration
-paginate: 15
+paginate: 50
 paginate_path: "page/:num"
 
 markdown: rdiscount
