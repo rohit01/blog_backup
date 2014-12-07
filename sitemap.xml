@@ -9,8 +9,8 @@ layout: blank
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
-   </url>
-   {% endfor %}
+  </url>
+  {% endfor %}
   <url>
     <loc>http://{{ site.website }}/about/</loc>
     <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
