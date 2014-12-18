@@ -8,7 +8,9 @@ tags:
   - nagios
   - shinken
   - docker
-thumbnail: /res/posts/use-shinken-let-nagios-rip/NinjaGreen.png
+thumbnail: /res/posts/rip-nagios-hello-docker-shinken/NinjaGreen.png
+redirect_from:
+  - /blog/use-shinken-let-nagios-rip.html
 ---
 
 Nagios is a great IT infrastructure monitoring tool. Some people still consider it as an IT standard for monitoring. But as with any software, there is always competition. I personally find Shinken to be one of the most compatible, modern and dare I say, a better alternative to Nagios. In this post, I will do a quick comparison between the two tools, show you reasons to migrate and more importantly how to migrate your current Nagios setup to Shinken in less than 10 minutes! No, seriously!
