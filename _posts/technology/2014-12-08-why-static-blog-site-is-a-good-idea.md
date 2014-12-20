@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-09-08 20:40:00 IST
+date: 2014-12-08 20:40:00 IST
 title: Why static blog site is a good idea!
 categories:
   - technology
