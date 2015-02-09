@@ -2,6 +2,8 @@
 
 <br />
 
+* [SethJi](https://github.com/rohit01/sethji) &mdash; A python flask application to generate AWS reports based on tags
+
 * [Docker Shinken](https://github.com/rohit01/docker_shinken) &mdash; Automated docker builds for [shinken](https://registry.hub.docker.com/u/rohit01/shinken/), [shinken_thruk](https://registry.hub.docker.com/u/rohit01/shinken_thruk/) and [shinken_thruk_graphite](https://registry.hub.docker.com/u/rohit01/shinken_thruk_graphite/)
 
 * [Zero Users](https://github.com/rohit01/zero-users) &mdash; Zero hassle Linux user management. Built with ♥ and Ansible
