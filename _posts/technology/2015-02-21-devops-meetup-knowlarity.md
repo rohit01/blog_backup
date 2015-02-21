@@ -48,4 +48,4 @@ We had a bunch of Devops related tech talks delivered by well known speakers fro
     *Speaker*: Chandra  
     *Twitter*: [@chandrashekar_m](https://twitter.com/chandrashekar_m)
 
-**Thanks for reading :)**
+**And as always, Thanks for reading :)**
