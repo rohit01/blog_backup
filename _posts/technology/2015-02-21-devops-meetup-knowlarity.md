@@ -48,7 +48,7 @@ We had a bunch of Devops related tech talks delivered by well known speakers fro
 
 * *02:00 PM*: **Introduction to Vagrant**  
     *Speaker*: Chandra  
-    *Twitter*: [@chandrashekar_m](https://twitter.com/chandrashekar_m)
+    *Twitter*: [@chandrashekar_m](https://twitter.com/chandrashekar_m)  
     *Slides link*: [Vagrant Talk](/res/posts/devops-meetup-knowlarity/Vagrant_Talk.pdf)
 
 **And as always, Thanks for reading :)**
