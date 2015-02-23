@@ -31,7 +31,7 @@ We had a bunch of Devops related tech talks delivered by well known speakers fro
 
 * *12:00 PM*: **Analyzing logs using ElasticSearch, Fluentd, Kibana**  
     *Speaker*: Ravdeep Pasricha  
-    *Twitter*: [@ravdeep003](https://twitter.com/ravdeep003)
+    *Twitter*: [@ravdeep003](https://twitter.com/ravdeep003)  
     *Slides link*: [Analyzing logs using EFK](/res/posts/devops-meetup-knowlarity/Analyzing_logs_using_EFK.pdf)
 
 * *12:30 PM*: **Lunch & Networking**  
@@ -43,7 +43,7 @@ We had a bunch of Devops related tech talks delivered by well known speakers fro
 
 * *01:30 PM*: **Puppet for Configuration Management(Demo)**  
     *Speaker*: Gourav Shah  
-    *Twitter*: [@gouravshah](https://twitter.com/gouravshah)
+    *Twitter*: [@gouravshah](https://twitter.com/gouravshah)  
     *Slides link*: [Puppet](https://prezi.com/kqpauy3eftli/package-nginx/)
 
 * *02:00 PM*: **Introduction to Vagrant**  
