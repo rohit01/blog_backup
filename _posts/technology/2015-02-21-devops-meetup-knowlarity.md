@@ -18,7 +18,7 @@ Today, we hosted a [DevOps Bangalore Group](http://www.meetup.com/devops-bangalo
 Tech Talks
 ==========
 
-We had a bunch of Devops related tech talks delivered by well known speakers from IT industry. Here's the schedule, with available presentation slides:
+We had a bunch of Devops related tech talks delivered by well known speakers from IT industry. Here's the schedule with presentation slides:
 
 * *11:00 AM*: **RIP Nagios. Hello Docker Shinken!**  
     *Speaker*: Rohit Gupta (me)  
@@ -49,5 +49,6 @@ We had a bunch of Devops related tech talks delivered by well known speakers fro
 * *02:00 PM*: **Introduction to Vagrant**  
     *Speaker*: Chandra  
     *Twitter*: [@chandrashekar_m](https://twitter.com/chandrashekar_m)
+    *Slides link*: [Vagrant Talk](/res/posts/devops-meetup-knowlarity/Vagrant_Talk.pdf)
 
 **And as always, Thanks for reading :)**
