@@ -48,7 +48,7 @@ We had 5 sessions which covered Introduction to Ansible, advanced topics as well
 
 **Speaker**: [@ImNagri](https://twitter.com/ImNagri)  
 **Slides**: [click here](/res/posts/ansible-meetup-knowlarity/running-ansible-via-api/slides.pdf)  
-**Summary**: In this talk, Hussain demonstrated how to use ansible as a python library and expose custom APIs. His project used a python flask to expose web APIs which were being called from a remote server. The remote server had a beautiful WebUI built using bootstrap + javascript. The architecture was discussed in detail.
+**Summary**: In this talk, Hussain demonstrated how to use ansible as a python library and expose custom APIs. His project used a python flask to expose web APIs which were being called from a remote server. The remote server had a beautiful WebUI built using bootstrap and javascript. The architecture was discussed in detail.
 
 ### AWS Management with Ansible
 ---
