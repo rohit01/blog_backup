@@ -29,7 +29,7 @@ We had 5 sessions which covered Introduction to Ansible, advanced topics as well
 <img src="/res/posts/ansible-meetup-knowlarity/images/ravdeep.jpg" width="50%" height="50%" align="right">
 
 **Speaker**: [@ravdeep003](https://twitter.com/ravdeep003)  
-**Slides link**: [click here](/res/posts/ansible-meetup-knowlarity/getting-started-with-ansible-playbook/slides.pdf)  
+**Slides**: [click here](/res/posts/ansible-meetup-knowlarity/getting-started-with-ansible-playbook/slides.pdf)  
 **Summary**: In this talk, Ravdeep gave an introduction to ansible playbooks, inventory, modules, variables and a typical directory structure of an ansible project. The session was very interactive with many participants completely new to Ansible. The demo session especially got people excited.
 
 ### Web App, Automated deployment
