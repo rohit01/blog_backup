@@ -19,7 +19,10 @@ layout: minify
     js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=1465422930395544";
     fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));</script>
-
+  {% if page.include_twitter_js %}
+    <!-- Include Twitter tweet widget -->
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  {% endif %}
   <!-- SEO and facebook opengraph stuff -->
   <link rel="canonical" href="http://{{ site.website }}{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}" />
   <meta property="og:locale" content="en_US" />
