@@ -39,7 +39,7 @@ We had 5 sessions which covered Introduction to Ansible, advanced topics as well
 
 **Speaker**: [@adityak2190](https://twitter.com/adityak2190)  
 **Slides**: [click here](http://www.adikrishnan.in/static/preso/ansible-sitedeploy.html)  
-**Summary**: In this talk, Aditya showed a complete end to end automation of a web application using Ansible. The application was a django website. The application was deployed with nginx, wsgi (running with gunicorn) and SQLite database. The application was deployed from scratch in less than 5 mins. The source code of the demo application is in his [github repository](https://github.com/adityak2190/sitedeploy).
+**Summary**: In this talk, Aditya showed a complete end to end automation of an application using Ansible. The application was a django website. The application was deployed with nginx, wsgi (running under gunicorn) and SQLite database. The application was deployed from scratch in less than 5 mins. The source code of the demo application is in his [github repository](https://github.com/adityak2190/sitedeploy).
 
 ### Running Ansible via API
 ---
