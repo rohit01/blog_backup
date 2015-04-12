@@ -71,7 +71,7 @@ We had 5 sessions which covered Introduction to Ansible, advanced topics as well
 ### Say Cheers!
 <img src="/res/posts/ansible-meetup-knowlarity/images/group_pic.jpg" width="100%" height="100%" align="center">
 
-### Tweets during event :-D
+### Tweets on this event :-D
 <div class="tweetline" align="center">
     <a class="twitter-timeline"  href="https://twitter.com/hashtag/AnsibleAtKnowlarity" data-widget-id="587290017782870016">#AnsibleAtKnowlarity Tweets</a>
 </div>
