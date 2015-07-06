@@ -29,7 +29,7 @@ The questions are targeted towards devops/ops guys. In the following questions, 
 
 5. Is all your code stored in some version control system, viz. Git, mercurial, svn?
 
-6. Does everyone (developers, devops, QA, etc) in your organization knows where to look for code?
+6. Does everyone (developers, devops, QA, etc.) in your organization knows where to look for code?
 
 7. Can you build your code in ONE step?
 (5 for one step build, -n if number of steps n is greater than 1)
