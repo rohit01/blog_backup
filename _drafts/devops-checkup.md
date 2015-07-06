@@ -8,7 +8,7 @@ tags:
   - devops
   - checkup
   - health
-# thumbnail: /res/posts/
+thumbnail: /res/posts/devops-checkup/thumbnail.jpg
 ---
 
 Few days back, I had a chance to meet [Mike Place](https://github.com/cachedout), developer at [saltstack](http://saltstack.com/). We had an interesting conversation about devops and how things happen in the valley. Here is one of the interesting conversation:
