@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-06-01 02:11:00 IST
+date: 2015-07-07 02:00:00 IST
 title: Devops Checkup
 categories:
   - technology
