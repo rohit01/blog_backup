@@ -11,7 +11,7 @@ tags:
 # thumbnail: /res/posts/
 ---
 
-Few days back, I had a chance to meet [Mike Place](https://twitter.com/cachedout). We had an interesting conversation about devops and how things happen in the valley. Here is one of the interesting conversation:
+Few days back, I had a chance to meet [Mike Place](https://github.com/cachedout), developer at [saltstack](http://saltstack.com/). We had an interesting conversation about devops and how things happen in the valley. Here is one of the interesting conversation:
 
 > Every change in production has some probability of failure and business impact due to that failure. Risk is a combination of both of them. If only one of them is high, the risk may still be low. But if both of them is high, it can be a disaster. The role of Devops to minimize the risk for every change.
 
