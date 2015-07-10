@@ -1,23 +1,23 @@
 ---
 layout: post
 date: 2015-07-10 20:10:00 IST
-title: 29 questions to ask yourself if you’re in Devops
+title: 29 questions to ask yourself if you’re in devops
 categories:
   - technology
 tags:
-  - Devops
-  - Devops checkup
+  - devops
+  - devops checkup
   - saltstack
 thumbnail: /res/posts/29-questions-to-ask-yourself-if-you-are-in-devops/thumbnail.jpg
 ---
 
-A few days ago, I had an opportunity to meet and interact with [Mike Place](https://github.com/cachedout), who works as a developer at [Saltstack](http://saltstack.com/). We had an interesting conversation about Devops and how things work in the valley. Mike explained the growing importance of Devops in organizations and the rise of Devops as a culture that aims to collaboratively deliver systems into production, reliably and effectively.
+A few days ago, I had an opportunity to meet and interact with [Mike Place](https://github.com/cachedout), who works as a developer at [Saltstack](http://saltstack.com/). We had an interesting conversation about devops and how things work in the valley. Mike explained the growing importance of devops in organizations and the rise of devops as a culture that aims to collaboratively deliver systems into production, reliably and effectively.
 
-He said *“Businesses are ever-changing. Engineers ship code, dozens of times each day. Every change in production has some probability of failure and business can get impacted due to that very failure. Risk is a combination of both of them. If only one of them is high, the risk may still be low. But if both of them are high, it can be a disaster. **The role of Devops is to minimize the risk of every change.**”*
+He said *“Businesses are ever-changing. Engineers ship code, dozens of times each day. Every change in production has some probability of failure and business can get impacted due to that very failure. Risk is a combination of both of them. If only one of them is high, the risk may still be low. But if both of them are high, it can be a disaster. **The role of devops is to minimize the risk of every change.**”*
 
-He asked a series of questions to self-evaluate the health of the Devops team in any organization. The questions are an eye opener to every Devops engineer.
+He asked a series of questions to self-evaluate the health of the devops team in any organization. The questions are an eye opener to every devops engineer.
 
-Here are 29 questions that you need to ask yourself if you are in Devops. Go ahead and rate yourself on a scale of 1 to 5.
+Here are 29 questions that you need to ask yourself if you are in devops. Go ahead and rate yourself on a scale of 1 to 5.
 
 1. Do you automate everything that can be automated and makes sense to automate?
 
@@ -29,7 +29,7 @@ Here are 29 questions that you need to ask yourself if you are in Devops. Go ahe
 
 5. Is all your code stored in some version control system, viz. Git, mercurial, svn?
 
-6. Does everyone (developers, Devops, QA, etc.) in your organization knows where to look for code?
+6. Does everyone (developers, devops, QA, etc.) in your organization knows where to look for code?
 
 7. Can you build your code in ONE step? (5 points for one step build, -n if number of steps n is greater than 1)
 
