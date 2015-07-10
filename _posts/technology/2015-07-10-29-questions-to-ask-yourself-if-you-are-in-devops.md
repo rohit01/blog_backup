@@ -3,7 +3,6 @@ layout: post
 date: 2015-07-10 20:10:00 IST
 title: 29 questions to ask yourself if you’re in devops
 description: The role of devops is to minimize the risk of every change. Read, how to do that.
-subtitle: The role of devops is to minimize the risk of every change. Read, how to do that.
 categories:
   - technology
 tags:
