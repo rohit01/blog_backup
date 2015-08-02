@@ -33,9 +33,8 @@ description: "Blog on technical and social articles. @rohit01 is a developer, fo
     <div class="tabs">
       <ul>
         <li id="tabHeader_1">Recent</li>
-        <li id="tabHeader_2">Search</li>
-        <li id="tabHeader_3">Projects</li>
-        <li id="tabHeader_4">About</li>
+        <li id="tabHeader_2">Projects</li>
+        <li id="tabHeader_3">About</li>
       </ul>
     </div>
 
@@ -70,21 +69,15 @@ description: "Blog on technical and social articles. @rohit01 is a developer, fo
           {% endif %}
         </nav>
       </div>
-      <!-- Search Tab -->
-      <div class="tabpage" id="tabpage_2">
-        <section class="entry-content">
-          {% include search.html %}
-        </section>
-      </div>
       <!-- Projects tab -->
-      <div class="tabpage" id="tabpage_3">
+      <div class="tabpage" id="tabpage_2">
         <section class="entry-content">
           {% capture my_include %}{% include projects.md %}{% endcapture %}
           {{ my_include | markdownify }}
         </section>
       </div>
       <!-- About tab -->
-      <div class="tabpage" id="tabpage_4">
+      <div class="tabpage" id="tabpage_3">
         <section class="entry-content">
           {% capture my_include %}{% include about.md %}{% endcapture %}
           {{ my_include | markdownify }}
@@ -97,7 +90,7 @@ description: "Blog on technical and social articles. @rohit01 is a developer, fo
   </div>
   <!-- JavaScript to provide tab functionality -->
   <script>
-    var numTabs = 4, currentTab = 1;
+    var numTabs = 3, currentTab = 1;
 
     function switchTab(num){
       document.getElementById('tabHeader_' + currentTab).removeAttribute('class');
