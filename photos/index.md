@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photo Albums
+title: Photography
 categories:
   - social
 tags:
@@ -13,14 +13,8 @@ description: Photography as a hobby!
 thumbnail: /res/photos/albums.jpg
 ---
 
-[![Nandi Hills](/res/photos/nandi-hills/preview.jpg)](/res/photos/nandi-hills/preview.jpg)
-Nandi Hills
+<h1 align="center">Photography</h1>
 
-![Nandi Hills](/res/photos/nandi-hills/preview.jpg)
-Nandi Hills
 
-![Nandi Hills](/res/photos/nandi-hills/preview.jpg)
-Nandi Hills
+[![Photography](./photography.jpg)](./photography_full_res.jpg)
 
-![Nandi Hills](/res/photos/nandi-hills/preview.jpg)
-Nandi Hills
