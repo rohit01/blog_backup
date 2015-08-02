@@ -9,7 +9,7 @@ tags:
   - rohit.io
   - Rohit Gupta
 description: Being a Photographer!
-thumbnail: ./preview.jpg
+thumbnail: /photos/preview.jpg
 ---
 
 <h1 align="center">Photography</h1>
