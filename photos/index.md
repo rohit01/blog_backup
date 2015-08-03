@@ -25,3 +25,11 @@ thumbnail: /photos/preview.jpg
     <img src="./album/nandi-hills/preview.jpg" alt="Nandi Hills" width="70%" height="70%" align="center">
   </a>
 </p>
+
+**Album - *[Gurgaon](./album/gurgaon/):***
+
+<p align="center">
+  <a href="./album/gurgaon/">
+    <img src="./album/gurgaon/preview.jpg" alt="Nandi Hills" width="70%" height="70%" align="center">
+  </a>
+</p>
