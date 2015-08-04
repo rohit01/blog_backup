@@ -11,7 +11,7 @@ tags:
   - Rohit Gupta
 description: Nandi Hills Photos
 thumbnail: /photos/album/nandi-hills/preview.jpg
-no_of_pics: 28
+no_of_pics: 29
 ---
 
 <h1 align="center">{{page.title}}</h1>
