@@ -31,6 +31,14 @@ thumbnail: /photos/preview.jpg
 
 <p align="center">
   <a href="./album/gurgaon/">
-    <img src="./album/gurgaon/preview.jpg" alt="Nandi Hills" width="70%" height="70%" align="center">
+    <img src="./album/gurgaon/preview.jpg" alt="Gurgaon" width="70%" height="70%" align="center">
+  </a>
+</p>
+
+**Album - *[Uttarakhand](./album/uttarakhand/):***
+
+<p align="center">
+  <a href="./album/uttarakhand/">
+    <img src="./album/gurgaon/preview.jpg" alt="Uttarakhand" width="70%" height="70%" align="center">
   </a>
 </p>
