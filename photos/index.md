@@ -39,6 +39,6 @@ thumbnail: /photos/preview.jpg
 
 <p align="center">
   <a href="./album/uttarakhand/">
-    <img src="./album/gurgaon/preview.jpg" alt="Uttarakhand" width="70%" height="70%" align="center">
+    <img src="./album/uttarakhand/preview.jpg" alt="Uttarakhand" width="70%" height="70%" align="center">
   </a>
 </p>
