@@ -9,6 +9,7 @@ tags:
   - rohit01
   - rohit.io
   - Rohit Gupta
+disqus_comments: true
 description: Nandi Hills Photos
 thumbnail: /photos/album/nandi-hills/preview.jpg
 no_of_pics: 29

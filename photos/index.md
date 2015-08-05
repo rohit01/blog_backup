@@ -8,6 +8,7 @@ tags:
   - rohit01
   - rohit.io
   - Rohit Gupta
+disqus_comments: true
 description: Being a Photographer!
 thumbnail: /photos/preview.jpg
 ---
