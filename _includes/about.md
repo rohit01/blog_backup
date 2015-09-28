@@ -10,6 +10,7 @@
 
 **Slides:**
 
+- PyCon India 2015: [RIP Nagios. Hello Docker Shinken!](/res/talks/pycon-india-2015/)
 - PyCon Singapore 2013: [Build service health dashboard using Shinken](/res/talks/pycon-singapore-2013/slides.html)
 - PyCon India 2012: [Managing AWS Cloud with Python](/res/talks/pycon-india-2012/slides.html)
 - KGEC FOSS event 2011: [Fun with Foss](/res/talks/fun-with-foss.pdf)
