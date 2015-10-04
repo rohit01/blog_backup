@@ -1,8 +1,4 @@
 title: RIP Nagios. Hello Docker Shinken!
-author:
-  name: Rohit Gupta
-  twitter: rohit01
-  url: http://www.rohit.io
 output: index.html
 controls: false
 style: style.css
@@ -12,7 +8,7 @@ style: style.css
 
 ---
 <!-- Who am I -->
-# [@rohit01](https://twitter.com/rohit01) [www.rohit.io](http://www.rohit.io/)
+<h1>[@rohit01](https://twitter.com/rohit01) <br> [www.rohit.io](http://www.rohit.io/)</h1>
 
 ---
 <!-- Conversation -->
@@ -155,32 +151,5 @@ define service {
 ---
 # Questions?
 
-
-<!--
-Docker Shinken (14 mins):
-
-* Quick into:
-    * Nagios: 1 min
-    * Shinken: 1 min
-    * Docker: 1 min
-* Problems with Nagios: 3 mins
-* Why Shinken is better: 4 mins
-* Why Docker_Shinken makes sense: 2 mins
-* Quick Demo: 2 min. Share link with public access
-
-Configuring checks in Shinken (14 mins):
-
-* Introduction to NRPE and agentless checks: 4 mins
-* What to monitor: overall 2 mins
-    * System metrics: like load, disk, sensors, network, dns, users, etc
-    * Processes and ports: like nginx or apache listening on port 80
-    * Application specific data: like shards in elasticsearch, db replication, etc
-* NRPE agent configuration (nrpe.cfg) for monitoring: 4 mins
-* Shinken side configuration: 4 mins
-
-Buffer + Question time: 12 Mins
-
-Problem, solution, benefits 
-What? So What? now what?
-
- -->
+---
+# Thank You :)
