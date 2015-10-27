@@ -42,3 +42,11 @@ thumbnail: /photos/preview.jpg
     <img src="./album/uttarakhand/preview.jpg" alt="Uttarakhand" width="70%" height="70%" align="center">
   </a>
 </p>
+
+**Album - *[Gokarna](./album/gokarna/):***
+
+<p align="center">
+  <a href="./album/gokarna/">
+    <img src="./album/gokarna/preview.jpg" alt="Gokarna" width="70%" height="70%" align="center">
+  </a>
+</p>
