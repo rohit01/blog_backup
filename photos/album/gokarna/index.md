@@ -12,7 +12,7 @@ tags:
 disqus_comments: true
 description: Gokarna Photos
 thumbnail: /photos/album/gokarna/preview.jpg
-no_of_pics: 11
+no_of_pics: 27
 ---
 
 <h1 align="center">{{page.title}}</h1>
