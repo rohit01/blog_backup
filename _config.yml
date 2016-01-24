@@ -18,7 +18,10 @@ gems:
   - 'jekyll-redirect-from'
   - 'jemoji'
   - 'jekyll-lunr-js-search'
+  - 'jekyll-paginate'
+  - 'jekyll-gist'
 # jekyll-lunr-js-search --> full-text search using JavaScript
+
 lunr_search:
   excludes:
     - index.html
