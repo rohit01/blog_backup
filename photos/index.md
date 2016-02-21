@@ -20,7 +20,6 @@ thumbnail: /photos/preview.jpg
 ---
 
 **Album - *[Nandi Hills](./album/nandi-hills/gallery/):***
-
 <p align="center">
   <a href="./album/nandi-hills/gallery/">
     <img src="./album/nandi-hills/preview.jpg" alt="Nandi Hills" width="70%" height="70%" align="center">
@@ -28,7 +27,6 @@ thumbnail: /photos/preview.jpg
 </p>
 
 **Album - *[Gurgaon](./album/gurgaon/gallery/):***
-
 <p align="center">
   <a href="./album/gurgaon/gallery/">
     <img src="./album/gurgaon/preview.jpg" alt="Gurgaon" width="70%" height="70%" align="center">
@@ -36,7 +34,6 @@ thumbnail: /photos/preview.jpg
 </p>
 
 **Album - *[Uttarakhand](./album/uttarakhand/gallery/):***
-
 <p align="center">
   <a href="./album/uttarakhand/gallery/">
     <img src="./album/uttarakhand/preview.jpg" alt="Uttarakhand" width="70%" height="70%" align="center">
@@ -44,7 +41,6 @@ thumbnail: /photos/preview.jpg
 </p>
 
 **Album - *[Gokarna](./album/gokarna/gallery/):***
-
 <p align="center">
   <a href="./album/gokarna/gallery/">
     <img src="./album/gokarna/preview.jpg" alt="Gokarna" width="70%" height="70%" align="center">
