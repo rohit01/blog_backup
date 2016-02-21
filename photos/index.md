@@ -19,10 +19,10 @@ thumbnail: /photos/preview.jpg
 
 ---
 
-**Album - *[Nandi Hills](./album/nandi-hills/):***
+**Album - *[Nandi Hills](./album/nandi-hills/gallery/):***
 
 <p align="center">
-  <a href="./album/nandi-hills/">
+  <a href="./album/nandi-hills/gallery/">
     <img src="./album/nandi-hills/preview.jpg" alt="Nandi Hills" width="70%" height="70%" align="center">
   </a>
 </p>
