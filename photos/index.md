@@ -27,26 +27,26 @@ thumbnail: /photos/preview.jpg
   </a>
 </p>
 
-**Album - *[Gurgaon](./album/gurgaon/):***
+**Album - *[Gurgaon](./album/gurgaon/gallery/):***
 
 <p align="center">
-  <a href="./album/gurgaon/">
+  <a href="./album/gurgaon/gallery/">
     <img src="./album/gurgaon/preview.jpg" alt="Gurgaon" width="70%" height="70%" align="center">
   </a>
 </p>
 
-**Album - *[Uttarakhand](./album/uttarakhand/):***
+**Album - *[Uttarakhand](./album/uttarakhand/gallery/):***
 
 <p align="center">
-  <a href="./album/uttarakhand/">
+  <a href="./album/uttarakhand/gallery/">
     <img src="./album/uttarakhand/preview.jpg" alt="Uttarakhand" width="70%" height="70%" align="center">
   </a>
 </p>
 
-**Album - *[Gokarna](./album/gokarna/):***
+**Album - *[Gokarna](./album/gokarna/gallery/):***
 
 <p align="center">
-  <a href="./album/gokarna/">
+  <a href="./album/gokarna/gallery/">
     <img src="./album/gokarna/preview.jpg" alt="Gokarna" width="70%" height="70%" align="center">
   </a>
 </p>
