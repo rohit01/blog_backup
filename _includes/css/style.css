@@ -216,6 +216,14 @@ input:focus{
   text-decoration: none;
 }
 
+.home article h1, .archive article h1{
+  font-size: 46px;
+  padding-bottom: 33px;
+  padding-top: 50px;
+  line-height: 1.3em;
+  font-weight: 500;
+}
+
 .home article h2, .archive article h2{
   font-size: 24px;
   line-height: 1.4em;
@@ -867,15 +875,15 @@ footer a:link {
     box-sizing: border-box;
     font-size: 13px;
   }
-  
+
   #header input{
     display: none;
   }
-  
+
   .leadmagnet input{
     width: 100%;
   }
-  
+
   .leadmagnet h3{
     text-align: center;
   }

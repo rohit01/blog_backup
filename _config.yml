@@ -1,6 +1,6 @@
 name: rohit.io
 port: 4000
-highlighter: pygments
+highlighter: rouge
 lsi: false
 #DEFAULT permalink: /:year/:month/:day/:title.html
 permalink: /blog/:title.html
