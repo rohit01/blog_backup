@@ -211,6 +211,10 @@ input:focus{
   margin-bottom: 40px;
 }
 
+.home article header, .archive article header{
+  margin-bottom: 25px;
+}
+
 .home article header a, .archive article header a{
   color: #1F4561;
   text-decoration: none;
